@@ -42,8 +42,9 @@ The **Pr1-Dashboard** project organizes raw operational records into high-impact
 ## 🎥 Video Walkthrough
 
 Watch a walkthrough demonstrating the data model, interactive slicers, cross-filtering, and dashboard insights:
-
-[![Watch Video Walkthrough](https://drive.google.com/file/d/1CULv2lOwkPEyXK1ZZQWfD2Q4UB9RrDQs/view?usp=sharing)]
+<p align="center">
+  ▶️ <a href="https://drive.google.com/file/d/1CULv2lOwkPEyXK1ZZQWfD2Q4UB9RrDQs/view?usp=drive_link"><b>Click here to watch the full Dashboard Video Walkthrough</b></a>
+</p>
 
 ## 📸 Dashboard Screenshots
 
